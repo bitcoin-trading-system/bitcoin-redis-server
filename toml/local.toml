@@ -1,0 +1,6 @@
+[baseConfig]
+port = "8003"
+
+[redisConfig]
+address = "localhost:6379"
+IndexCount = 2
